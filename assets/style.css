@@ -1,0 +1,35 @@
+section {
+    padding: 20px 0 20px 0;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+section form {
+    padding: 20px;
+    background-color: gainsboro;
+    border-radius: 10px;
+}
+
+section form h1 {
+    text-align: center;
+    font-family: arial;
+}
+
+section form input {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 5px;
+    width: 92%;
+}
+
+section form button {
+    width: 100%;
+    padding: 10px;
+    border: none;
+}
+
+section form p {
+    font-family: arial;
+}
